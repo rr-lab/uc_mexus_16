@@ -1,12 +1,12 @@
-# The role of phospholipids in maize adaptation to highlands of Mexico
+# The role of phospholipids in maize adaptation to Mexican highlands
 
 ## Background
 
-The ancestor of maize*(Zeamays ssp.*Mexicana),teosinte, is native to the Balsas River Valley in the state of Guerrero at low altitude. This species is known asteosinte *parviglumis* (Zea*mays ssp.*Parviglumis)There is another subspecies of teosinte *Mexican *(Zea*mays ssp.*Mexicana)that colonized the highlands of Mexico over 1800 meters. Maize was domesticated from *parviglumis * about 8,000 years ago in nearby low valleys to the original area *parviglumis* [@Matsuoka:2002fh]. From there the maize spread throughout Mexico, the rest of the Americas and the day today is grown on every continent except Antarctica [@Hake:2015cx]. maize represents therefore a very appropriate to study phenomena of local adaptation model, this is how plants modify their metabolism to develop an appropriate manner in the biotic and abiotic conditions of the ecological niche they occupy. maize after their domestication in the Balsas River in the highlands of Mexico where he met with some higher levels of radiation, lower air pressure, temperature and precipitation and in some areas near the chain of Mexican volcanoes soil Andosólicos very colonized low availability of phosphorus [@Krasilnikov:2013wua].During the process of adaptation to highlands, it is thought that many of the characteristics that allowed adaptation of maize were the result of introgression events *Mexico,* which was already adapted to these conditions [@Hufford:2013im].
+The ancestor of maize*(Zeamays ssp.*Mexicana),teosinte, is native to the Balsas River Valley in the state of Guerrero at low altitude. This species is known as teosinte *parviglumis* (*Zeamays ssp.Parviglumis*). Another subspecies of teosinte *mexicana* (*Zea mays ssp. Mexicana*) colonized the highlands of Mexico over 1800 meters. Maize (*Zea mays ssp. mays*) was domesticated from *parviglumis* about 8,000 years ago in the valleys close to the original area of *parviglumis* [@Matsuoka:2002fh]. From there the maize spread throughout Mexico, the rest of the Americas and today is grown on every continent except Antarctica [@Hake:2015cx]. Maize represents therefore wonderful model to study local adaptation processes defined as the mechanisms of how plants modify their metabolism to develop in the biotic and abiotic conditions of the ecological niche they occupy. After domestication in the Balsas River, maize colonized the highlands of Mexico, where it was exposed with higher levels of radiation, lower air pressure, temperature and precipitation and in some areas near the chain of Mexican volcanoes, Andosol soils, characterized by low bio-availability of phosphorus [@Krasilnikov:2013wua]. During the process of adaptation to highlands, it is thought that many of the characteristics that allowed adaptation of maize were the result of introgression events with teosinte *mexicana,* which was already adapted to these highland conditions [@Hufford:2013im].
 
 One of the metabolic changes most in plants adapted to low temperature conditions is increased proportion of phospholipids in the composition of membranes with respect to other lipids such as galactolipids and sulfolipids [@Degenkolbe:2012dp]. Plants that are adapted to phosphorus deficiency on the other hand, tend to degrade phospholipids and phosphate to recycle the phospholipids are replaced with galactolipids and sulfolipids. We are therefore in a position of highlands to strong environmental pressure to use phospholipids efficiently as possible. Although the metabolic pathways involved in these processes are more or less known, recent results suggest that the diversity of polar lipids involved may be greater than we expect [@Okazaki:2013dw].
 
-There are several studies that point to a fundamental role of phospholipids in maize highland adaptation. Takuno and colleagues studied genes showing marks maize selective breeding populations highlands in Mesoamerica and South America [@Takuno:2015cr]. Genes that showed marks of adaptation to highlands in the two groups only agreed a group of about 90 genes. When did a search on Gene Ontology over a third of the terms found they were related to the synthesis of lipids / phospholipids. Furthermore, one of these genes is described as a CONSTANS interacting protein, a transcription factor that is upstream of FLOWERING LOCUS T (FT), which control flowering time integrating information photoperiod. Precisely in Arabidopsis, it has been shown to binds FT phosphatidylcholine [@Nakamura:2014gs]. When the proportion of phosphatidylcholine is increased relative to the phosphoethanolamine flowering times is probably reduced because the FT complex with phosphatidylcholine favors the union of FT genes controlling, accelerating flowering. Furthermore, both phosphatidylcholine and other intermediate metabolites of phosphatidylcholine synthesis are essential for proper embryo development [@Lin:2015ef]   Maize has also been shown that lipid profiles are good predictors of flowering time [@Riedelsheimer:2012ir].
+There are several studies that point to an important role of phospholipids in maize highland adaptation. Takuno and colleagues studied genes showing marks maize selective breeding populations highlands in Mesoamerica and South America [@Takuno:2015cr]. Genes that showed marks of adaptation to highlands in the two groups only agreed a group of about 90 genes. When did a search on Gene Ontology over a third of the terms found they were related to the synthesis of lipids / phospholipids. Furthermore, one of these genes is described as a CONSTANS interacting protein, a transcription factor that is upstream of FLOWERING LOCUS T (FT), which control flowering time integrating information photoperiod. In Arabidopsis FT can bind phosphatidylcholine [@Nakamura:2014gs]. When the proportion of phosphatidylcholine is increased relative to the phosphoethanolamine flowering times is probably reduced because the FT complex with phosphatidylcholine favors the union of FT genes controlling, accelerating flowering. Furthermore, both phosphatidylcholine and other intermediate metabolites of phosphatidylcholine synthesis are essential for proper embryo development [@Lin:2015ef]   Maize has also been shown that lipid profiles are good predictors of flowering time [10].
 
 In this project we are proposing check, using different approaches the role of phospholipids in the adaptation of maize to the highlands Mexicans.
 
@@ -36,11 +36,11 @@ The general objective of this proposal is to characterize changes in lipid profi
 
 3. Check for differentiation signals in genes involved in the synthesis of phospholipids and other related as glycerolipids sulpholipids between races and maize highlands and low valleys.lipid
 
-4. Checkabnormalities phosphatidylcholine levels affecting flowering times in conditions of highlands and low valleys.
+4. Check abnormalities phosphatidylcholine levels affecting flowering times in conditions of highlands and low valleys.
 
 5. Check if the natural variation genes involved in the synthesis of phosphatidylcholine involve phenotypic changes at the level of lipids, expression of genes involved in their synthesis and other phenotypes that may be related as flowering time.
 
-## Relevant
+## Relevance
 
 1. Methodology lipid analysis will be performed in collaboration with Professor Oliver Fiehn. The samples were extracted according to the method of Matyash et al. [[12].](https://paperpile.com/c/X0kwCD/P5Jx)Then they will separate and identify lipids using a method that has been optimized in the laboratory of Oliver Fiehn with UPLC-QTOFMS modes of electrospray negative and positive. The method allows the identification about 500 different types of lipids including phospholipids, galactolipids, and sulfolipids. Further identification was complemented using LipidBlast base [[11]](https://paperpile.com/c/X0kwCD/TgQL)data.
 
@@ -65,3 +65,31 @@ This project is expected to clarify to what extent the phospholipid metabolism i
 4. They generate mutants with altered phosphatidylcholine levels and field data that allow explore the effects of the levels of phosphatidylcholine in flowering times and the consequences in terms of adaptation to highlands are obtained.
 
 5. It obtain data that will help check the effects of natural variation in the sequences of the genes involved in phospholipid synthesis have effects on the expression levels of genes, the contents of phospholipids and other phenotypes that are controlled by the phospholipid levels as root architecture and flowering time.
+
+## References
+
+1. 	[Matsuoka And Vigouroux And MM Goodman, GJ Sanchez, Buckler E, Doebley J. A single domestication for maize shown by multilocus microsatellite genotyping. Proc Natl Acad Sci US A. 2002; 99:. 6080-6084](http://paperpile.com/b/X0kwCD/wxx4)
+
+2. 	[Hake S, Ross-Ibarra J. Genetic, plant breeding and evolutionary insights from the domestication of maize. Elife. 2015 4. doi:](http://paperpile.com/b/X0kwCD/SYBo)[10.7554 / eLife.05861](http://dx.doi.org/10.7554/eLife.05861)
+
+3. 	[Krasilnikov P, the Carmen Gutiérrez-Castorena M, RJ Ahrens, Cross-Gaistardo CO, Sedov S, Solleiro-Rebolledo E. The Soils of Mexico. Springer Science & Business Media; 2013.](http://paperpile.com/b/X0kwCD/Ivkd)
+
+4. 	[Hufford MB, Lubinksy P, T Pyhäjärvi, Devengenzo MT, NC Ellstrand, Ross-Ibarra J. The genomic signature of crop-wild introgression in maize. PLoS Genet. 2013; 9:. E1003477](http://paperpile.com/b/X0kwCD/NGd0)
+
+5. 	[Degenkolbe T, P Giavalisco, Zuther E, Seiwert B, DK Fan, L. Differential Willmitzer remodeling of the lipidome During cold acclimation in a natural accessions of Arabidopsis thaliana. Plant J. 2012; 72: 972-982al..](http://paperpile.com/b/X0kwCD/0RAh)
+
+6. 	[Okazaki Y, Otsuki H, Narisawa T, Kobayashi M, Sawai S, Kamide Y, et  A new class of plant lipid is essential for Protection against phosphorus depletion. Nat Commun. 2013; 4: 1510.](http://paperpile.com/b/X0kwCD/NGxg)
+
+7. 	[Takuno S, Ralph P, K Swarts, Elshire RJ, JC Glaubitz, Buckler ES, et al. Molecular Basis of Independent Highland Convergent Adaptation in Maize. Genetics. 2015; 200:. 1297-1312](http://paperpile.com/b/X0kwCD/Qy3k)
+
+8. 	[Nakamura Y, Andrés F, Kanehara K, Liu YC, Dörmann P, Coupland G. florigen Arabidopsis FT binds to phospholipids That diurnally oscillating accelerate flowering. Nat Commun. 2014; 5: 3553.](http://paperpile.com/b/X0kwCD/BP7V)
+
+9. 	[Lin YC, Liu YC, Nakamura Y. The Choline / Ethanolamine Kinase Family in Arabidopsis: Essential Role of CEK4 in Phospholipid Biosynthesis and Embryo Development. Plant Cell. 2015; 27:. 1497-1511](http://paperpile.com/b/X0kwCD/or8z)
+
+10. 	[Riedelsheimer C, Brotman And Meret M, Melchinger AE, Willmitzer L. The maize leaf lipidome shows multilevel Genetic Control and high predictive value for agronomic traits. Rep Sci 2013; 3:. 2479.](http://paperpile.com/b/X0kwCD/DtKO)
+
+11. 	[Kind T, Liu KH, Lee DY, DeFelice B, Meissen JK, Fiehn O. LipidBlast tandem mass spectrometry in silico database for lipid identification. Nat Methods. 2013; 10:. 755-758](http://paperpile.com/b/X0kwCD/TgQL)
+
+12. 	[Matyash V, Liebisch G, Kurzchalia TV, Shevchenko A, Schwudke D. Lipid extraction by methyl-tert-butyl ether for high-throughput lipidomics. J Lipid Res 2008; 49:. 1137-1146KW..](http://paperpile.com/b/X0kwCD/P5Jx)
+
+13. 	[Arends D Prins P, Jansen RC, Broman  R / QTL: high-throughput multiple QTL mapping. Bioinformatics. 2010; 26: 2990-2992.](http://paperpile.com/b/X0kwCD/Csme)
