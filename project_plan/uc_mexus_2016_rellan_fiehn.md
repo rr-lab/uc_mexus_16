@@ -20,17 +20,15 @@ Basic assumption of this proposal is that phospholipids have played a key role i
 
 ## Justification
 
-This pre-proposal is considered as aborder between combining genetic approaches using quantitative techniques, molecular biology, population genetics, evolutionary genetics, polar lipid analysis with liquid chromatography techniques coupled to mass spectrometry and use of libraries of mass spectra of lipids . Also controlled laboratory experiments in fields that match the natural environments in which these processes should be combined experiments originally arise. It should be highlighted the importance of combining these approaches here in Mexico, which is an advantage over other groups working on similar projects.
+This pre-proposal is considered as a border between combining genetic approaches using quantitative techniques, molecular biology, population genetics, evolutionary genetics and polar lipid analysis with liquid chromatography techniques coupled to mass spectrometry and use of libraries of mass spectra of lipids .
+Also,it is necessary to develop controlled experiments, in fields, that match the natural environments in which these adaptation processes originally arise. It should highlight the importance of combining these approaches here in Mexico, which is an advantage over other groups working on similar projects.
 
-The possible applications that can be derived from the results of this project may be used in basic projects of maize races improvement or to incorporate desirable traits in maize hybrids.
-
-Local adaptation phenomena are being studied at a very low rate, this due to researches have focused on specific processes using local adapatation just as a complementary approach to understand other processes. 
-
-Right now it is enjoying a science project Basic that is focused on the role of phospholipids in response to phosphorus deficiency. The approaches and the environmental impact (height) is being proposed to study this proposal is very different. Also in the draft basic science most of the work is being done in Arabidopsis
+As results of this project, understanding the role of phospholipids in response to phosphorus deficiency is key for developing new strategiesle that may be used to design basic improvement projects of maize races or to specifically incorporate desirable traits in maize hybrids.
+At present there are few projects studying local adaptation phenomena, this due to researches have focused on specific processes using local adapatation just as a complementary approach to understand other processes. The current basic science project we are working in, is studying some of these issues using as the model of study *Arabidopsis*, nevertheless, maize is the main C4 crop worldwide, reason enough to directly study all thse processes in it. 
 
 ## General Objective
 
-The general objective of this proposal is to characterize changes in lipid profiles with genetic changes that explain maize genotypes adapted to highlands of Mexico in connection with genotypes adapted to low valleys.
+The general objective of this proposal is to characterize the changes in lipid profiles and genetic changes which explain maize genotypes adapted to highlands of Mexico in connection with genotypes adapted to low valleys.
 
 ## Specific Objectives
 
