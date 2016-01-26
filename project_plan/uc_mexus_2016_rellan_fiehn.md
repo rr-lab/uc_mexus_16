@@ -32,15 +32,17 @@ The general objective of this proposal is to characterize the changes in lipid p
 
 ## Specific Objectives
 
-1. To characterize the profile of phospholipids and other polar lipids and the expression patterns of genes involved in the synthesis of B73 maize plants, and Toluqueño Dovecote (low valleys race) in growth chamber conditions simulating weather conditions of highlands and low valleys mainly handling the culture temperature: 10 degrees valleys high and valleys low 25 degrees. Seedling samples 2-3 weeks of age of different types of sheets and along the sheet will be taken. With this first objective will be achieved to obtain a map of the quantities and types of phospholipids in genotypes adapted to high and low valleys that facilitate the choice of fabric and stage of development in samples taken in field experiments
+1. Characterize the profile of phospholipids and other polar lipids; as well as the expression patterns of genes involved in the synthesis of those lipids in B73 maize plants and Toluqueño Dovecote (low valleys race).
+For these analyses, a growing experiment will be performed in a growth chamber simulating weather conditions of highlands and low valleys, mainly regulating the chamber's temperature (10 °C for highlands conditions and 25 °C for low valleys) and photoperiod. In this experiment, the plants are grown for a period of 2-3 weeks, along that time samples will be taken from different parts of the plant, such as different types of sheets. 
+Once achieved this objective, is expected to obtain a map of the quantities and types of phospholipids in different genotypes adapted to high and low valleys, which will be really helpful to decide at which developmental stage and from which structure is more convinient for sampling the experimental fields. 
 
-2. characterize the architecture phospholipid metabolism genetics to identify regions of the genome (QTL) and / or genes that may be ruling remodeling polar lipids in response to conditions of highlands.
+2. Characterize the genetic architecture of phospholipid metabolism, in order to identify regions of the genome (QTLs) and/ or genes that may be ruling re-organization of polar lipids in response to conditions of highlands.
 
-3. Check for differentiation signals in genes involved in the synthesis of phospholipids and other related as glycerolipids sulpholipids between races and maize highlands and low valleys.lipid
+3. Study the ifferentiation signals of genes involved in the synthesis of phospholipids, glycerolipids and sulpholipids between maize races of highlands and low valleys.
 
-4. Checkabnormalities phosphatidylcholine levels affecting flowering times in conditions of highlands and low valleys.
+4. Analyze the effects of abnormal levels of phosphatidylcholine (PtdCho) on the  flowering time, in conditions of highlands and low valleys.
 
-5. Check if the natural variation genes involved in the synthesis of phosphatidylcholine involve phenotypic changes at the level of lipids, expression of genes involved in their synthesis and other phenotypes that may be related as flowering time.
+5. Study what is the effect of natural variation in genes involved in the synthesis of phosphatidylcholine (PtdCho), on the expression of lipids and other phenotypes such as flowering time. 
 
 ## Relevant
 
