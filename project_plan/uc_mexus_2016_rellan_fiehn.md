@@ -51,8 +51,7 @@ The maize samples are extracted according to the method of Matyash et al. [[12]]
 Separation and identification of lipids will be accomplished using a method that has been optimized, in the laboratory of Oliver Fiehn, with UPLC-QTOFMS electrospray on modes negative and positive. The method allows the identification of about 500 types of lipids including phospholipids, galactolipids, and sulfolipids. Further identification was complemented using LipidBlast data base [[11]](https://paperpile.com/c/X0kwCD/TgQL).
 
 2. For this objective, a mapping population developed by the laboratory of Ruairidh Sawers will be analyzed. This population is composed by 100 RILS (Recombinant Inbred Lines) BC2S4 (Backcross twice with B73 and then selfed during four generations), from a cross of B73 (reference line) with Toluqueño Dovecote (maize breed adapted to highlands). 
-Based on the results obtained in the above objective, samples of plants grown in an experimental field of Bucerias (50 meters above sea level, lower valley) and other field in Metepec (2600 m.a.s.l, high valley) will be taken at the same stage of development. 
-
+Based on the results obtained in the above objective, samples of plants grown in an experimental field of Bucerias (50 meters above sea level, lower valley) and other field in Metepec (2600 m.a.s.l, high valley) will be taken at the same stage of development.
 Once taken the maize samples, lipid profiles will be analyzed and used for a QTL analysis with R/QTL program [[13]] (https://paperpile.com/c/X0kwCD/Csme). The concentrations of each of the lipid types, and the ratios between different environments (Metepec vs Bucerias) are going to be used as the phenotype.
 A future goal is to do the same analysis using a NAM mapping population (Nested Association Mapping), also created by R. Sawers Laboratory, where 15 races of highlands maize have crossed with CML312 hybrid which will allow to capture a wider range of alleles from a larger number of parents. 
 It is expected to identify genes that fall within identified QTL regions, then, mutants for the candidate genes will be developed by using insertional mutant lines UniformMu or Ac / Ds. 
@@ -65,7 +64,6 @@ With these data, Fst ​​and Pi values will be calculated to assess the divers
 
 5. For this point, the data obtained at objective 3 will be also used.
 On one hand, the genes which have been found to present differentiation will be selected and re-sequenced, along the 30 maize races group. Having these data, genetic expression studies will be possible using real-time PCR, in order to verify if differentiation levels correspond with expression levels.
-
 The coding regions of genes from highlands and low valleys with higher levels of differentiation will be cloned and expressed in mutants of Arabidopsis orthologous genes, this under the control of the endogenous promoter of Arabidopsis. Done this, genetic natural variation of lipids and other phenotypes, as flowering time, can be evaluated using a neutral background (Arabidopsis mutant)
 This will evaluate on a neutral background (mutant arabidopsis) the effects of natural variation of these genes in lipid levels and other phenotypes such as flowering time and root development.
 In order to achieve this objective we will maintain collaboration with Fulgencio Alatorre laboratory, in the Graduate College of Campeche, and Alfredo Cruz Ramirez laboratory at LANGEBIO.
