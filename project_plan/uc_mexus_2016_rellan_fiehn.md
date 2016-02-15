@@ -10,7 +10,7 @@ There are several studies that point to an important role of phospholipids in ma
 In maize, lipid profiles can also be used as good predictors of flowering time [@Riedelsheimer:2012ir].
 
 In this project we are proposing to systematically study the differences in the metabolic phospholipids pathways of maize plants grown in highland and lowland conditions. We will use high throughout liquid chromatography coupled to mass spectrometry and lipid mass spectra databases to identify a wide range of phospholipids in different plant maize materials including:  
-- a collection of 60 highland and lowland maize landrace diversity panel grown in common gardens experiments at highland (Metepec, 2500 m) and lowland (Nayarit, 25 m)
+- A collection of 60 highland and lowland maize landrace diversity panel grown in common gardens experiments at highland (Metepec, 2500 m) and lowland (Nayarit, 25 m)
 - A mapping population composed of 100 Palomero Toluqueño (PT, a Mexican highland landrace) x B73 (sequenced US inbred line) Recombinant Inbred Lines mapping populations grown in the same locations.
 - PT and B73 parents and mutants of genes involved in PtdCho biosynthesis grown in growth chamber with a factorial experiment combining  low and high temperature and low and high phosphorus concentrations simulating highland and lowland conditions. In this plant material we will also collect tissue to study the expression of genes involved in the PtdCho pathway.
 
