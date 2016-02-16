@@ -20,6 +20,8 @@ We hypothesize that phospholipid metabolism reorganization played a key role in 
 
 ## Relevance to the UC-Mexus program goals.
 
+needs to be revised.
+
 This proposal is considered as a border between combining genetic approaches using quantitative techniques, molecular biology, population genetics, evolutionary genetics and polar lipid analysis with liquid chromatography techniques coupled to mass spectrometry and use of libraries of mass spectra of lipids.
 Also,it is necessary to develop controlled experiments, in fields, that match the natural environments in which these adaptation processes originally arose. It should highlight the importance of combining these approaches here in Mexico, which is an advantage over other groups working on similar projects.
 
@@ -30,29 +32,37 @@ At present there are few projects studying local adaptation phenomena, this due 
 
 The general aim of this proposal is to systematically characterize the changes in phospholipid profiles and expression of genes involved in phospholipid synthesis to shed light on the possible role of phospholipids in Maize highland adapatation.
 
-## Specific Aims
+## Specific Aims and relevant methodology
 
-###Aim 1. Characterize the profile of phospholipids and other polar lipids, as well as the expression patterns of genes involved in the synthesis of those lipids in B73 and PT (Palomero Toluqueño, highland landrace) maize plants.
-In this experiment plants of PT and B73 will be grown in a growth chamber simulating weather conditions of highlands and low valleys, mainly regulating the chamber's temperature and photoperiod. The growth chamber's conditions for highlands will be 20°C during the daylight and 10°C during the night time. While for low valleys daylight temperature will be 30°C and 20°C during the night. For both experiments the photoperiod will be 14 hours of light and 10 h of darkness. Plants will be grown for a period of 2-3 weeks. Samples will be collected at V3 stage from  Once achieved this objective, is expected to obtain a map of the quantities and types of phospholipids and other polar lipids in different genotypes adapted to highlands and lowlands, which will be really helpful to decide at which developmental stage and from which structure is more convinient for sampling the experimental fields, in order to further study specific steps in phosphorus pathways. Maize samples will be extracted according to the method of Matyash et al. [[12]](https://paperpile.com/c/X0kwCD/P5Jx). Phospholipid analysis will be performed at the  West Coast Metabolomics Center in UC Davis.
+###Aim 1. Characterize the profile of phospholipids and other polar lipids, as well as the expression patterns of genes involved in the synthesis of those lipids in B73 and Palomero Toluqueño,
+#### Rationale, design and potential problems
+In this aim we will get a first characterization of the effect of phosphorus deficiency and cold the phospholipid profiles and the expression of genes involved in PtdCho synthesis in two well characterized genetic backgrounds: B73 and Palomero Toluqueño (a highland adapted landrace). Plants will be grown in a growth chamber simulating weather conditions of highlands and low valleys, mainly by regulating the chamber's temperature and photoperiod. The growth chamber's conditions for highlands will be 20°C during the daylight and 10°C during the night time. While for low valleys daylight temperature will be 30°C and 20°C during the night. For both experiments the photoperiod will be 14 hours of light and 10 h of darkness. At each of the temperature conditions half of the plants will be grown under low phosphorus and half under control phosphorus concentrations. So each genotype will be grown under two different phosphorus and temperature conditions.
+Before this experiment we will optimize lipid extraction procedures to adapt it to maize leaf tissues but once this is optimized we don´t expect too much complications as the rest of the procedures are already performed regularly in both labs. This experiment will set the basis for future experiments using B73xPT F1s to study Allele Specific Expression (ASE) using targeted RNA-Seq in collaboration with the laboratory of Daniel Runcie at the department of Plant Sciences UC Davis. Samples will also be collected to study methylation patterns of phospholipid pathway genes in collaboration with the laboratory of Luis Herrera-Estrella that have recently found interesting methylation pattens of these genes in Arabidopsis plants under P deficiency [@YongVillalobos:2015cv].  
+#### Methodology.  
+Plants will be grown for a period of 2-3 weeks. Samples will be collected at V3 stage from the youngest full developed leaf. Maize samples will be extracted according to the method of Matyash et al. [@Matyash:2008ei]. Phospholipid analysis will be performed at the  West Coast Metabolomics Center in UC Davis. Separation and identification of lipids will be accomplished using a method that has been optimized, in the laboratory of Oliver Fiehn, with UPLC-QTOFMS electrospray on modes negative and positive. The method allows the identification of about 500 types of lipids including phospholipids, galactolipids, and sulfolipids. Further identification was complemented using LipidBlast data base [@Kind:2013bc]. Samples will also be collected from the opposite side of the leaf midrib for RT-qPCR analysis of the genes involved in phosphatidylcholine biosynthesis pathway See Figure 1.  
 
-Separation and identification of lipids will be accomplished using a method that has been optimized, in the laboratory of Oliver Fiehn, with UPLC-QTOFMS electrospray on modes negative and positive. The method allows the identification of about 500 types of lipids including phospholipids, galactolipids, and sulfolipids. Further identification was complemented using LipidBlast data base [[11]](https://paperpile.com/c/X0kwCD/TgQL).
+![PtdCho biosynthesis](/Users/rrellan/Dropbox/repos/uc_mexus_16/figures/figure_PtdChl_pathway.png)  
+**Figure 1** Phosphatidylcholine biosynthesis super pathway indicating the different pathways by which PthDChol can be synthesized in maize. Predicted genes are indicated. (In bold those that can perform different steps of the pathway, in red those for which we are already homozygous single insertional mutants). Data was obtained from the Plant Metabolic Network, [CornCyc](http://pmn.plantcyc.org/organism-summary?object=CORN) webpage.
 
-2. Characterize the genetic architecture of phospholipid metabolism, in order to identify regions of the genome (QTLs) and/ or genes that may be ruling re-organization of polar lipids in response to conditions of highlands.
+###Aim 2. Characterize the natural variation and genetic architecture of phospholipid metabolism, in order to identify regions of the genome (QTLs) controlling the re-organization of polar lipids in response to highland conditions.
+
+#### Rationale, design and potential problems.  
+
+In this aim we will study the natural variation of lipid profiles from a collection of 30 highland and 30 lowland adapted Mexican landraces. This landraces (15 plants each) will be planted in March 2017 in a common garden experiment in both lowland (Nayarit field site) and highland conditions (Metepec field site). Along side these landraces we will grow a collection of BC1S5 100 Recombinant Inbred Lines of B73xPT. Samples will be collected at V3-V5 (we expect different rates of development) from 3-5 plants per landrace and RILS in the field, stored in dry ice and transported to the laboratory in Langebio for extraction. Extracted samples will then be shipped to the UC Davis Genome Center for analysis by the laboratory of Oliver Fiehn.Lipid analysis will be performed as described in the previous aim. Phospholipid profiling data from the landraces will give us a very valuable information about genetic highland/lowland genetic variability in the synthesis of these compounds and on the environmental effect of highland and lowland growth conditions. Given the great genetic diversity of our panel and the fact that previous data point to an important role of phospholipid metabolism since highland conditions imposed a high selective pressure in these pathways we expect to find great biochemical diversity and even new compounds as recently shown in the model plant Arabidopsis [@Okazaki:2013dw].
+For the RILS we will use a mapping population, developed by Ruairidh Sawers laboratory at Langebio. This population is composed by 100 RILS (Recombinant Inbred Lines) BC1S5 (Backcross with B73 and then selfed during 5 generations), from a cross of B73 (reference line) with Palomero Toloqueño.
+Lipid profiles will be analyzed and used for a QTL analysis with R/QTL program [@Broman:2015di] The concentrations of each of the lipid types, and the ratios between different environments (Metepec vs Valle de Banderas) are going to be used as the phenotype.
+Once QTLs are identified we will these QTLs to run association mapping on the set of 60 landraces (for which there is already genotypic (GBS) data from Cimmyt Seeds of Discovery project).
+
+The problems problems that we expect here are related with the nuances of field sampling experiments. However we have already grown and collected samples from both field sites in collaboration with the laboratory of Ruairidh Sawers.
 
 3. Study the differentiation signals of genes involved in the synthesis of phospholipids, glycerolipids and sulfolipids between maize races of highlands and lowlands.
-
-4. Analyze the effects of abnormal levels of phosphatidylcholine (PtdCho) on the flowering time, in conditions of highlands and lowlands.
 
 5. Study what is the effect of natural variation in genes involved in the synthesis of phosphatidylcholine (PtdCho), on the expression of lipids and other phenotypes such as flowering time.
 
 ## Relevant Methodology
 
 
-
-2. For this objective, a mapping population, developed by Ruairidh Sawers' Maize Genetics and Genomics laboratory, will be analyzed. This population is composed by 100 RILS (Recombinant Inbred Lines) BC2S4 (Backcross twice with B73 and then selfed during four generations), from a cross of B73 (reference line) with Toluqueño Dovecote (maize breed adapted to highlands).
-Based on the results obtained in the above objective, samples of plants grown in an experimental field of Valle de Banderas (50 meters above sea level, low valley) and other field in Metepec (2600 m.a.s.l, high valley) will be taken at the same stage of development.
-Once taken the maize samples, lipid profiles will be analyzed and used for a QTL analysis with R/QTL program [[13]] (https://paperpile.com/c/X0kwCD/Csme). The concentrations of each of the lipid types, and the ratios between different environments (Metepec vs Valle de Banderas) are going to be used as the phenotype.
-A future goal is to do the same analysis using a NAM mapping population (Nested Association Mapping), also created by R. Sawers Llaboratory, where 15 races of highlands maize have crossed with CML312 hybrid which will allow to capture a wider range of alleles from a larger number of parents.
+2. For this objective,
 It is expected to identify genes that fall within identified QTL regions, then, mutants for the candidate genes will be developed by using insertional mutant lines UniformMu or Ac/Ds.
 Alternatively, mutants using the CRISPR-CAS9 technology will be develop in collaboration with the laboratory of Luis Herrera-Estrella at LANGEBIO.
 
@@ -70,9 +80,7 @@ In order to achieve this objective we will maintain collaboration with Dr. Fulge
 
 This project is expected to clarify to what extent the phospholipids metabolism is involved in the adaptation of maize to highlands in Mexico. The results of the various goals complement each other, but represent independent units that will lead to individual deliverables.
 
-1. A map of the phospholipids content and expression will be obtained, this along different maize developmental stages.
 
-2. Genetic architecture of  phospholipids synthesis will be obtained trough QTLs identification. Within two years, time that is being proposed for this project, may be difficult to map finely potential candidates and test their function, but this can be achieved on possible extensions of the project.
 
 3. Data on the differentiation of the genes involved in synthesis of phospholipids will be obtained, which may explain adaptation to highlands.
 
