@@ -16,3 +16,7 @@ Thumbs.db
 .RData
 .Rhistory
 .Rproj.user
+
+# grant examples #
+######################
+/grant_examples/*
