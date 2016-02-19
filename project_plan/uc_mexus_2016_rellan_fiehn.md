@@ -20,13 +20,10 @@ We hypothesize that phospholipid metabolism reorganization played a key role in 
 
 ## Relevance to the UC-Mexus program goals.
 
-needs to be revised.
+The current project brings together a young research group in México (Rubén Rellán-Álvarez) interested in understanding the biochemical basis of maize local adaptation with a well stablished group (Oliver Fiehn) in the Genome Center at UC Davis. Rellán-Álvarez has a proven record on the study of how abiotic stresses shape different plant metabolic pathways and is starting an ambitious research program to understand at the biochemical level how maize has adapted to highland elevations in México. Oliver Fiehn is a world renowed expert in the development and application of metabolomics techniques. His lab has developed analytical methods and data pipelines to identify a great variety of lipids [@Kind:2013bc]. This project will enable precise, high troughput biochemical analysis in the UC Davis Genome Center of plants grown in different field locations in México. 
+Rubén Rellán-Álvarez and Oliver Fiehn have experience in carrying out this type of collaborative research. During his PhD Rubén Rellán-Álvarez visited the lab of Oliver Fiehn several times to perform similar types of work and perefectioned the logistics of preparing, sending and analyzing the samples in collaboration. Now that Rellán-Álvarez has started his own lab in México this project would provide a fantastic opportunity to establish new collaborations trough common visits and stays of Mexican students that are starting their Masters program in the laboratory of Rellán-Alvarez. In particular, the work of two students, Karla Juarez and Estefany Sánchez are expected to benefit from this collaboration.  
+Furthermore, is expected that the techniques developed in the Fiehn lab will be transferred to Langebio´s metabolomics lab. 
 
-This proposal is considered as a border between combining genetic approaches using quantitative techniques, molecular biology, population genetics, evolutionary genetics and polar lipid analysis with liquid chromatography techniques coupled to mass spectrometry and use of libraries of mass spectra of lipids.
-Also,it is necessary to develop controlled experiments, in fields, that match the natural environments in which these adaptation processes originally arose. It should highlight the importance of combining these approaches here in Mexico, which is an advantage over other groups working on similar projects.
-
-As results of this project, understanding the role of phospholipids in response to phosphorus deficiency is key for developing new strategies that may be used to design basic improvement projects of maize races or to specifically incorporate desirable traits in maize hybrids.
-At present there are few projects studying local adaptation phenomena, this due to researches have focused on specific processes using local adaptation just as a complementary approach to understand other processes. The current basic science project we are working on, is studying some of these issues using as the model of study *Arabidopsis*, nevertheless, maize is the main C4 crop worldwide, reason enough to directly study all thse processes in it.
 
 ## General Aim
 
