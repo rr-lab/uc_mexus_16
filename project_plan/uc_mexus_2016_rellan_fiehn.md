@@ -41,7 +41,7 @@ Plants will be grown for a period of 2-3 weeks. Samples will be collected at V3 
 ![PtdCho biosynthesis](/Users/rrellan/Dropbox/repos/uc_mexus_16/figures/figure_PtdChl_pathway.png)  
 **Figure 1** Phosphatidylcholine biosynthesis super pathway indicating the different pathways by which PthDChol can be synthesized in maize. Predicted genes are indicated. (In bold those that can perform different steps of the pathway, in red those for which we are already homozygous single insertional mutants). Data was obtained from the Plant Metabolic Network, [CornCyc](http://pmn.plantcyc.org/organism-summary?object=CORN) webpage.
 
-###Aim 2. Characterize the natural variation and genetic architecture of phospholipid metabolism, in order to identify regions of the genome (QTLs) controlling the re-organization of polar lipids in response to highland conditions.
+###Aim 2. Characterize the natural variation and genetic architecture of phospholipid metabolism and identify regions of the genome (QTLs) controlling the re-organization of polar lipids in response to highland conditions.
 
 #### Rationale, design and potential problems.  
 
@@ -50,37 +50,31 @@ For the RILS we will use a mapping population, developed by Ruairidh Sawers labo
 Lipid profiles will be analyzed and used for a QTL analysis with R/QTL program [@Broman:2015di] The concentrations of each of the lipid types, and the ratios between different environments (Metepec vs Valle de Banderas) are going to be used as the phenotype.
 Once QTLs are identified we will these QTLs to run association mapping on the set of 60 landraces (for which there is already genotypic (GBS) data from Cimmyt Seeds of Discovery project).
 
-The problems problems that we expect here are related with the nuances of field sampling experiments. However we have already grown and collected samples from both field sites in collaboration with the laboratory of Ruairidh Sawers.
+The problems that we expect here are related with the nuances of field sampling experiments. However we have already grown and collected samples from both field sites in collaboration with the laboratory of Ruairidh Sawers at Langebio.
 
-3. Study the differentiation signals of genes involved in the synthesis of phospholipids, glycerolipids and sulfolipids between maize races of highlands and lowlands.
+###Aim 3. Identify th effect of mutations of genes involved in the PhosphatydilCholine biosynthesis pathway. 
+#### Rationale, design and potential problems.
+In collaboration with the laboratory of Ruairidh Sawers, the lab of Rubén Rellán-Álvarez is developing different lines carrying insertional mutations in key genes of the PhosphatydilCholine biosynthesis. We have mutants of different alleles homologues to the Arabidopsis gene xipotl [@CruzRamirez:2004jo], that encodes an enzyme with  phospho-ethanolamine N-methyltransferase activity. In Arabidopsis, three different enzymes are needed to complete three consecutive N-methylation steps that are carried out on phospho-bases, phosphoethanolamine, phospho-N-methylethanolamine, and phospho-N-dimethylethanolamine produce PtdCho, but in maize, all three steps can be carried out by at least 4 different xipotl alleles: GRMZM2G045249, GRMZM2G170400, GRMZM2G122296 and GRMZM2G060886. We have UniformMu or Ds insertional mutant stocks for the last three of them and we are in the process of finding homozygous lines for all of them. We also have a UniformMu insertional mutants of GRMZM2G085926 that encodes an enzyme in the Kennedy pathway that synthesizes PtdChol *de novo* from choline. 
+Using the same experimental design as in Aim 1 all these mutants will be grown in high/low temperature and phosphorus conditions. Samples will be taken for phospholipid analysis to study the effect of the mutations in phospholipid profiles. Samples will also be collected for RT-qPCR of the genes involved in the PtdChol super pathway. 
+These data will allow us to study if:
+- we can modify PtdChol concentrations in maize plants. 
+- compensantion mechanisms between the different branches of the PtdChol pathway exist and what os the importance of each of these pathways.
+Morphological traits of seedling will also be scored to identify effects in leaf and root development.  
+In the future this information will be used to design field studies where mutants of these genes will be evaluated in highland and low lowland conditions and directly test the effect of the genes real field conditions. 
+We have already started making crosses between these insertional mutants and selected RILS of the PTxB73 mapping population with extreme flowering times to test if changes in PthChol concentrations can indeed modify flowering times in field conditions [@Nakamura:2014gs].
 
-5. Study what is the effect of natural variation in genes involved in the synthesis of phosphatidylcholine (PtdCho), on the expression of lipids and other phenotypes such as flowering time.
+Crosses and genptyping of all the mutants is well underway. Field experiments won´t be possible within the timeframe of the UC-Mexus project but data generated in the growth chambers will guide theses experiments in the future.
 
-## Relevant Methodology
+### Summary and synthesis
+We consider also the possibility of rapid functional change between mexicana and highland maize as a result of the pressures of cultivation, in the absence of recombination. This later hypothesis will be investigated contingent of the availability of mexicana sequence data.
 
+### Work Group Contributions
+RRA group, will carry out growth chamber and field experiments, perform lipid and DNA isolation and make maize crosses and genotyping to generate homozygous mutants of PtdCho sysnthesis
+OF group will perform HPLC-MS analysis of samples to generate lipid profile data and train visiting students from RRA lab in data analysis.
+RRA and OF will work jointly on data analysis of data.
+RRA group will work closely with the metabolic services at Langebio to implement lipid profile analysis in Langebio. 
 
-2. For this objective,
-It is expected to identify genes that fall within identified QTL regions, then, mutants for the candidate genes will be developed by using insertional mutant lines UniformMu or Ac/Ds.
-Alternatively, mutants using the CRISPR-CAS9 technology will be develop in collaboration with the laboratory of Luis Herrera-Estrella at LANGEBIO.
-
-3. For this purpose the genomes to be used (with a depth of sequencing 30X) are from 30 races of maize grown in highlands and lowlands, not published yet but available at Jeffrey Ross-Ibarra's laboratory at UC Davis.
-With these data, Fst and Pi values will be calculated to assess the diversity in the sequences of the genes (and their corresponding regulatory elements) involved in the synthesis of phospholipids, also, data will be analyzed to check if there are marks of selection (low diversity) along the races adapted to highlands, which would indicate that these genes have been evolutionarily selected as beneficial for highlands conditions.
-
-4. In order to check the possible effects, under field conditions, of changing levels of phosphatidylcholine (PtdCho)/phosphoethanolamine (PE) in flowering times [[8]](https://paperpile.com/c/X0kwCD/BP7V), crosses will be made between UniformMu insertional mutants in XIPOTL genes and RILS of the population B73xPT, only the ones which present extreme flowering times, both in highlands and lowlands conditions. After these crosses are made, they will again grow under the same conditions to evaluate the effects of the mutation in flowering times.
-
-5. For this point, the data obtained at objective 3 will be also used.
-On one hand, the genes which have been found to present differentiation will be selected and re-sequenced, along the 30 maize races group. Having these data, genetic expression studies will be possible using real-time PCR, in order to verify if differentiation levels correspond with expression levels.
-The coding regions of genes from highlands and lowlands with higher levels of differentiation will be cloned and expressed in mutants of *Arabidopsis* orthologous genes, this under the control of the endogenous promoter of *Arabidopsis*. Done this, genetic natural variation of lipids and other phenotypes, as flowering time and root development, can be evaluated using a neutral background (*Arabidopsis* mutant)
-In order to achieve this objective we will maintain collaboration with Dr. Fulgencio Alatorre Laboratory at the Graduate College of Campeche in Mexico, and also with Dr. Alfredo Cruz Ramírez Laboratory at LANGEBIO in Mexico.
-
-## Expected Results
-
-This project is expected to clarify to what extent the phospholipids metabolism is involved in the adaptation of maize to highlands in Mexico. The results of the various goals complement each other, but represent independent units that will lead to individual deliverables.
-
+### Timeline.
 
 
-3. Data on the differentiation of the genes involved in synthesis of phospholipids will be obtained, which may explain adaptation to highlands.
 
-4. We expect to design mutants with altered phosphatidylcholine levels, using PtdCho mutants, field data can be obtained to explore the effects of the levels of phosphatidylcholine in flowering time and the consequences in terms of adaptation to highlands.
-
-5. Data generated will help to verify if natural variation in the sequences of the genes involved in phospholipids synthesis have effects on the expression levels, the phospholipids content and other phenotypes, such as flowering time and root development.
