@@ -77,10 +77,21 @@ RRA group will work closely with the metabolic services at Langebio to implement
 
 ### Timeline
 
-**Aim** | Aim 1 | Aim 1 | Aim 1 | Aim 2 | Aim 2 | 
---- | --- | --- | --- | --- | --- |
-**Time** | Feb - March (2016) | March - May (2016) | June - July (2016) | March - April (2017) | April - May (2017) |
-**Activities** | B73 and PT grown in growth chamber using highland and lowland conditions, with low and high phosphorus concentrations. Take three leaf samples from V3 stage. | Storage 2/3 of the samples for future RT-qPCR and methylation analysis.  Optimize lipid extraction. Analyze lipid extracts using UPCL-QTOFMS. Lipid profile analysis.  | RT-qPCR analysis of leaf midrib samples taken.To analyze gene methylation patterns from samples. | Sowing of 30 highland and 30 lowland landraces, 15 plants each, in Nayarit and Metepec fields respectively. To grow 100 RILs of B73xPT, collect samples at V3-V5 stages. | Lipid extraction of samples. Shipping extracts for analysis. Phosphlipid profiles analysis. | 
-**Place** | Langebio | Langebio and UC Davis | Langebio | Langebio | Langebio and UC Davis |
+**Aim** | Aim 1 | Aim 1 | Aim 1 |
+--- | --- | --- | --- |
+**Time** | Feb - March (2016) | March - May (2016) | June - July (2016) | 
+**Activities** | B73 and PT grown in growth chamber using highland and lowland conditions, with low and high phosphorus concentrations. Take three leaf samples from V3 stage. | Storage 2/3 of the samples for future RT-qPCR and methylation analysis.  Optimize lipid extraction. Analyze lipid extracts using UPCL-QTOFMS. Lipid profile analysis. | RT-qPCR analysis of leaf midrib samples taken.To analyze gene methylation patterns from samples. 
+**Place** | Langebio | Langebio and UC Davis | Langebio |
 
+**Aim** | Aim 2 | Aim 2 | Aim 2 |
+--- | --- | --- | --- |
+**Time** | March - April (2017) | April - May (2017) | June - July (2017) | 
+**Activities** | Sowing of 30 highland and 30 lowland landraces, 15 plants each, in Nayarit and Metepec fields respectively. To grow 100 RILs of B73xPT, collect samples at V3-V5 stages. | Lipid extraction of samples. Shipping extracts for analysis. Phosphlipid profiles analysis. | QTL identification. To generate an association mapping using identified QTLs. |   
+**Place** | Langebio | Langebio and UC Davis | Langebio |
+
+**Aim** | Aim 3 | Aim 3 | Aim 3 |
+--- | --- | --- | --- |
+**Time** | June - August (2016) | September - October (2016) | October - November (2016) | November - December (2016)
+**Activities** | Generation of insertional mutants on PtdCho key biosynthesis genes. Study mutants for different alleles of xipotl gene. Find homozygous lines for 4 maize xipotl alleles. | Grow mutants in growth chamber according experimental conditions of Aim 1. Take three leaf samples per plant from V3 stage. | Lipid extraction. Shipping extract to be analyzed with UPCL-QTOFMS. Lipid profile analysis. | RT-qPCR analysis of leaf midrib samples taken. To analyze gene methylation patterns from samples taken. |
+**Place** | Langebio | Langebio | Langebio and UC Davis | Langebio |
 
