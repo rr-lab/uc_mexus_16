@@ -83,11 +83,11 @@ RRA group will work closely with the metabolic services at Langebio to implement
 **Activities** | B73 and PT grown in growth chamber using highland and lowland conditions, with low and high phosphorus concentrations. Take three leaf samples from V3 stage. | Storage 2/3 of the samples for future RT-qPCR and methylation analysis.  Optimize lipid extraction. Analyze lipid extracts using UPCL-QTOFMS. Lipid profile analysis. | RT-qPCR analysis of leaf midrib samples taken.To analyze gene methylation patterns from samples. 
 **Place** | Langebio | Langebio and UC Davis | Langebio |
 
-**Aim** | Aim 2 | Aim 2 | Aim 2 |
---- | --- | --- | --- |
-**Time** | March - April (2017) | April - May (2017) | June - July (2017) | 
-**Activities** | Sowing of 30 highland and 30 lowland landraces, 15 plants each, in Nayarit and Metepec fields respectively. To grow 100 RILs of B73xPT, collect samples at V3-V5 stages. | Lipid extraction of samples. Shipping extracts for analysis. Phosphlipid profiles analysis. | QTL identification. To generate an association mapping using identified QTLs. |   
-**Place** | Langebio | Langebio and UC Davis | Langebio |
+**Aim** | Aim 2 | Aim 2 | Aim 2 | Future Aims |
+--- | --- | --- | --- | --- |
+**Time** | March - April (2017) | April - May (2017) | June - July (2017) | Future |
+**Activities** | Sowing of 30 highland and 30 lowland landraces, 15 plants each, in Nayarit and Metepec fields respectively. To grow 100 RILs of B73xPT, collect samples at V3-V5 stages. | Lipid extraction of samples. Shipping extracts for analysis. Phosphlipid profiles analysis. | QTL identification. To generate an association mapping using identified QTLs. | Crosses and genotyping of mutants and study modification of PtdCho concentration in maize. Grow mutants in highland and lowland fields.  Analyze leaf and root development. |  
+**Place** | Langebio | Langebio and UC Davis | Langebio | Langebio and UC Davis |
 
 **Aim** | Aim 3 | Aim 3 | Aim 3 |
 --- | --- | --- | --- |
