@@ -1,0 +1,180 @@
+<h1 id="the-role-of-phospholipids-in-maize-adaptation-to-mexican-highlands">The role of phospholipids in maize adaptation to Mexican highlands</h1>
+<h2 id="background">Background</h2>
+<p>The direct ancestor of maize, Balsas teosinte (<em>Zea mays ssp. parviglumis</em>), is native to low to mid elevation regions of southwest Mexico. A second subspecies, Chalco teosinte (<em>Zea mays ssp. mexicana</em>), is distributed in the cooler, drier highlands of central Mexico, over 1800 meters. Maize (<em>Zea mays ssp. mays</em>) was domesticated from <em>parviglumis</em> about 9,000 years ago in the Balsas valley <span class="citation">[@Matsuoka:2002fh]</span>. After domestication, maize colonized the Mexican highlands, possibly aided by significant introgression of adaptive variation from <em>mexicana</em> <span class="citation">[@Hufford:2013im]</span>. In the Mexican highlands, maize was exposed to higher levels of radiation, lower air pressure, temperature and precipitation; furthermore, owing to the volcanic nature of the Mexican highlands, maize had to adapt to Andosol soils, characterized by low bio-availability of phosphorus <span class="citation">[@Krasilnikov:2013wua]</span>. Therefore, maize colonization of these highland areas represents a great model to study plant local adaptation. While several studies using evolutionary and population genomics approaches have described the patterns of genetic differentation associated with maize adaptation to the Mexican highlands, studies to functionally validate the underlaying metabolic changes involved in these processes are still largely missing.</p>
+<p>Plants growing in phosphorus limiting soils develop a series of metabolic strategies, including recyling of P containing compounds such as RNA and phospholipids. Phospholipids constitute around 1/3 of the available phosphorus in the plant and are the major component of membranes, specially in chloroplasts <span class="citation">[@Veneklaas:2012dz]</span>. In addition to their structural role, some of the most abundant phospholipids such as phosphatidylcholine also have interesting signaling functions and are involved in multiple regulatory processes associated with environmental stimuli <span class="citation">[@Xue:2009hi]</span>. Plants challenged with low temperatures tend to increase the proportion of phospholipids in the composition of membranes with respect to other polar lipids such as galactolipids and sulfolipids <span class="citation">[@Degenkolbe:2012dp]</span> probably as a mechanism to modulate membrane fluidity. On the other hand, plants under phosphorus deficiency recycle phospholipids -to free up phosphate- and substitute them with galactolipids and sulfolipids <span class="citation">[@Veneklaas:2012dz]</span>. The Mexican highland transvolcanic belt territory that maize colonized is characterized by both lower temperatures and phosphorus availability. Therefore during the process of adaptation we hypothesize that maize phospholipid metabolic pathways were under a high selective pressure Although these pathways are relatively well known, recent results suggest that the diversity of polar lipids involved may be greater than we expect <span class="citation">[@Okazaki:2013dw]</span>.</p>
+<p>There are several studies that point to an important role of phospholipids in maize highland adaptation. Takuno and colleagues identified genes showing signals of selection between lowland and highland maize populations in Mesoamerica and South America <span class="citation">[@Takuno:2015cr]</span>. Approximately 90 genes were identified in common between Meso American and South American populations, over a third of which belonged to Gene Ontology groups related to the synthesis of lipids / phospholipids. Interestingly, one of these genes is described as a CONSTANS interacting protein. CONSTANS is a transcription factor that is upstream of the FLOWERING LOCUS T (FT) transcription factor, which controls flowering time by integrating daylength signals.<br />
+Using a maize diversity panel, lipid profiles have been shown to be good predictors of flowering time <span class="citation">[@Riedelsheimer:2012ir]</span>. In <em>Arabidopsis thaliana</em>, FT binds to one species of phosphatidylcholine (PtdCho, the most abundant phospholipid in plants) <em>in vitro</em> <span class="citation">[@Nakamura:2014gs]</span>. When the proportion of PtdCho is increased, relative to phosphoethanolamine (PEA), flowering time is reduced, probably because the FT complex with PtdCho favors the union of FT to the promoter of FT target genes. Additionally, both PtdCho and other intermediate metabolites of PtdCho synthesis are essential for proper embryo development <span class="citation">[@Lin:2015ef]</span>.</p>
+<p>In this project, we are proposing to systematically study differences in phospholipid metabolism in relation to maize adaptation to highland conditions. We will use high throughout liquid chromatography coupled to mass spectrometry and lipid mass spectra databases to identify a wide range of phospholipids in different plant maize materials including:<br />
+- A diversity panel of 30 highland and 30 lowland Mexican maize landraces grown in common gardens experiments in highland (Metepec, 2500 m) and lowland (Nayarit, 25 m) field sites. - A mapping population composed of 100 Palomero Toluqueño (PT, a Mexican highland landrace) x B73 (sequenced US inbred line) Recombinant Inbred Lines grown in the same highland and lowland locations. - PT and B73 parents and mutants of genes involved in PtdCho biosynthesis grown in growth chamber with a factorial experiment combining low and high temperature and low and high phosphorus concentrations simulating highland and lowland conditions. In this plant material we will also collect tissue to study the expression of genes involved in the PtdCho pathway.</p>
+<h2 id="hypothesis">Hypothesis</h2>
+<p>We hypothesize that phospholipid metabolism reorganization played a key role in the adaptation of maize to the highlands of Mexico.</p>
+<h2 id="relevance-to-the-uc-mexus-program-goals">Relevance to the UC-Mexus program goals</h2>
+<p>The current project brings together a young research group in Lngebio, México (Rubén Rellán-Álvarez) interested in understanding the biochemical basis of maize local adaptation and a well stablished group (Oliver Fiehn) that has developed methods and databases for lipid analysis in the Genome Center at UC Davis. Rellán-Álvarez has a proven record on the study of how abiotic stresses shape different plant metabolic pathways and is starting an ambitious research program to understand at the biochemical level how maize has adapted to highland elevations in México. Oliver Fiehn is a world expert in the development and application of metabolomics techniques. His lab has developed analytical methods and data pipelines to identify a great variety of lipids <span class="citation">[@Kind:2013bc]</span>. This project will enable precise, high throughput biochemical analysis in the UC Davis Genome Center of plants grown in different field locations in México. Rubén Rellán-Álvarez and Oliver Fiehn have experience in carrying out this type of collaborative research. During his PhD Rubén Rellán-Álvarez visited the lab of Oliver Fiehn several times to perform similar types of work and worked on the logistics of preparing, sending and analyzing the samples in collaboration. Now that Rellán-Álvarez has started his own lab in México this project would provide a fantastic opportunity to establish new collaborations trough common visits and stays of Mexican students that are starting their Masters program in the laboratory of Rellán-Alvarez. In particular, the work of two students, Karla Juarez and Estefany Sánchez are expected to benefit from this collaboration.<br />
+Furthermore, is expected that the techniques developed in the Fiehn lab will be transferred to Langebio´s metabolomics lab.</p>
+<h2 id="general-aim">General Aim</h2>
+<p>The general aim of this proposal is to systematically characterize the changes in phospholipid profiles and expression of genes involved in phospholipid synthesis to shed light on the possible role of phospholipids in Maize highland adaptation.</p>
+<h2 id="specific-aims-and-relevant-methodology">Specific Aims and relevant methodology</h2>
+<h3 id="aim-1.-characterize-the-profile-of-phospholipids-and-other-polar-lipids-as-well-as-the-expression-patterns-of-genes-involved-in-the-synthesis-of-those-lipids-in-b73-and-palomero-toluqueño">Aim 1. Characterize the profile of phospholipids and other polar lipids, as well as the expression patterns of genes involved in the synthesis of those lipids in B73 and Palomero Toluqueño</h3>
+<h4 id="rationale-design-and-potential-problems">Rationale, design and potential problems</h4>
+<p>In this aim we will get a first characterization of the effect of phosphorus deficiency and cold the phospholipid profiles and the expression of genes involved in PtdCho synthesis in two well characterized genetic backgrounds: B73 and Palomero Toluqueño (a highland adapted landrace). Plants will be grown in a growth chamber simulating weather conditions of highlands and low valleys, mainly by regulating the chamber's temperature and photoperiod. The growth chamber's conditions for highlands will be 20°C during the daylight and 10°C during the night time. While for low valleys daylight temperature will be 30°C and 20°C during the night. For both experiments the photoperiod will be 14 hours of light and 10 h of darkness. At each of the temperature conditions half of the plants will be grown under low phosphorus and half under control phosphorus concentrations. So each genotype will be grown under two different phosphorus and temperature conditions. Before this experiment we will optimize lipid extraction procedures to adapt it to maize leaf tissues but once this is optimized we don´t expect too much complications as the rest of the procedures are already performed regularly in both labs. This experiment will set the basis for future experiments using B73xPT F1s to study Allele Specific Expression (ASE) using targeted RNA-Seq in collaboration with the laboratory of Daniel Runcie at the department of Plant Sciences UC Davis. Samples will also be collected to study methylation patterns of phospholipid pathway genes in collaboration with the laboratory of Luis Herrera-Estrella that have recently found interesting methylation pattens of these genes in <em>Arabidopsis</em> plants under P deficiency <span class="citation">[@YongVillalobos:2015cv]</span>.</p>
+<h4 id="methodology">Methodology</h4>
+<p>Plants will be grown for a period of 2-3 weeks. Samples will be collected at V3 stage from the youngest full developed leaf. Maize samples will be extracted according to the method of Matyash et al. <span class="citation">[@Matyash:2008ei]</span>. Phospholipid analysis will be performed at the West Coast Metabolomics Center in UC Davis. Separation and identification of lipids will be accomplished using a method that has been optimized, in the laboratory of Oliver Fiehn, with UPLC-QTOFMS electrospray on modes negative and positive. The method allows the identification of about 500 types of lipids including phospholipids, galactolipids, and sulfolipids. Further identification was complemented using LipidBlast data base <span class="citation">[@Kind:2013bc]</span>. Samples will also be collected from the opposite side of the leaf midrib for RT-qPCR analysis of the genes involved in phosphatidylcholine biosynthesis pathway See Figure 1.</p>
+<p><img src="/Users/rrellan/Dropbox/repos/uc_mexus_16/figures/figure_PtdChl_pathway.png" alt="PtdCho biosynthesis" /><br />
+<strong>Figure 1</strong> Phosphatidylcholine biosynthesis super pathway indicating the different pathways by which PtdCho can be synthesized in maize. Predicted genes are indicated. (In bold those that can perform different steps of the pathway, in red those for which we are already homozygous single insertional mutants). Data was obtained from the Plant Metabolic Network, <a href="http://pmn.plantcyc.org/organism-summary?object=CORN">CornCyc</a> webpage.</p>
+<h3 id="aim-2.-characterize-the-natural-variation-and-genetic-architecture-of-phospholipid-metabolism-and-identify-regions-of-the-genome-qtls-controlling-the-re-organization-of-polar-lipids-in-response-to-highland-conditions">Aim 2. Characterize the natural variation and genetic architecture of phospholipid metabolism and identify regions of the genome (QTLs) controlling the re-organization of polar lipids in response to highland conditions</h3>
+<h4 id="rationale-design-and-potential-problems-1">Rationale, design and potential problems</h4>
+<p>In this aim we will study the natural variation of lipid profiles from a collection of 30 highland and 30 lowland adapted Mexican landraces. This landraces (15 plants each) will be planted in March 2017 in a common garden experiment in both lowland (Nayarit field site) and highland conditions (Metepec field site). Alongside these landraces we will grow a collection of BC1S5 100 Recombinant Inbred Lines of B73xPT. Samples will be collected at V3-V5 (we expect different rates of development) from 3-5 plants per landrace and RILS in the field, stored in dry ice and transported to the laboratory in Langebio for extraction. Extracted samples will then be shipped to the UC Davis Genome Center for analysis by the laboratory of Oliver Fiehn. Lipid analysis will be performed as described in the previous aim. Phospholipid profiling data from the landraces will give us a very valuable information about genetic highland/lowland genetic variability in the synthesis of these compounds and on the environmental effect of highland and lowland growth conditions. Given the great genetic diversity of our panel and the fact that previous data point to an important role of phospholipid metabolism since highland conditions imposed a high selective pressure in these pathways we expect to find great biochemical diversity and even new compounds as recently shown in the model plant <em>Arabidopsis</em> <span class="citation">[@Okazaki:2013dw]</span>. For the RILS we will use a mapping population, developed by Ruairidh Sawers laboratory at Langebio. This population is composed by 100 RILS (Recombinant Inbred Lines) BC1S5 (Backcross with B73 and then selfed during 5 generations), from a cross of B73 (reference line) with Palomero Toloqueño. Lipid profiles will be analyzed and used for a QTL analysis with R/QTL program <span class="citation">[@Broman:2015di]</span>. The concentrations of each of the lipid types, and the ratios between different environments (Metepec vs Valle de Banderas) are going to be used as the phenotype. Once QTLs are identified we will these QTLs to run association mapping on the set of 60 landraces (for which there is already genotypic (GBS) data from Cimmyt Seeds of Discovery project).</p>
+<p>The problems that we expect here are related with the nuances of field sampling experiments. However we have already grown and collected samples from both field sites in collaboration with the laboratory of Ruairidh Sawers at Langebio.</p>
+<h3 id="aim-3.-identify-the-effect-of-mutations-of-genes-involved-in-the-phosphatydilcholine-biosynthesis-pathway">Aim 3. Identify the effect of mutations of genes involved in the Phosphatydilcholine biosynthesis pathway</h3>
+<h4 id="rationale-design-and-potential-problems-2">Rationale, design and potential problems</h4>
+<p>In collaboration with the laboratory of Ruairidh Sawers, the lab of Rubén Rellán-Álvarez is developing different lines carrying insertional mutations in key genes of the Phosphatydilcholine biosynthesis. We have mutants of different alleles homologues to the <em>Arabidopsis</em> gene xipotl <span class="citation">[@CruzRamirez:2004jo]</span>, that encodes an enzyme with phospho-ethanolamine N-methyltransferase activity. In <em>Arabidopsis</em>, three different enzymes are needed to complete three consecutive N-methylation steps that are carried out on phospho-bases, phosphoethanolamine, phospho-N-methylethanolamine, and phospho-N-dimethylethanolamine produce PtdCho, but in maize, all three steps can be carried out by at least 4 different xipotl alleles: GRMZM2G045249, GRMZM2G170400, GRMZM2G122296 and GRMZM2G060886. We have UniformMu or Ds insertional mutant stocks for the last three of them and we are in the process of finding homozygous lines for all of them. We also have a UniformMu insertional mutants of GRMZM2G085926 that encodes an enzyme in the Kennedy pathway that synthesizes PtdChol <em>de novo</em> from choline. Using the same experimental design as in Aim 1 all these mutants will be grown in high/low temperature and phosphorus conditions. Samples will be taken for phospholipid analysis to study the effect of the mutations in phospholipid profiles. Samples will also be collected for RT-qPCR of the genes involved in the PtdCho super pathway. These data will allow us to study if: - we can modify PtdCho concentrations in maize plants. - compensation mechanisms between the different branches of the PtdCho pathway exist and what is the importance of each of these pathways. Morphological traits of seedling will also be scored to identify effects in leaf and root development.<br />
+In the future this information will be used to design field studies where mutants of these genes will be evaluated in highland and low lowland conditions and directly test the effect of the genes in real field conditions. We have already started making crosses between these insertional mutants and selected RILS of the PTxB73 mapping population with extreme flowering times to test if changes in PtdCho concentrations can indeed modify flowering times in field conditions <span class="citation">[@Nakamura:2014gs]</span>.</p>
+<p>Crosses and genotyping of all the mutants is well underway. Field experiments won't be possible within the timeframe of the UC-Mexus project but data generated in the growth chambers will guide theses experiments in the future.</p>
+<h3 id="summary-and-synthesis">Summary and synthesis</h3>
+<p>We consider also the possibility of rapid functional change between mexicana and highland maize as a result of the pressures of cultivation, in the absence of recombination. This later hypothesis will be investigated contingent of the availability of mexicana sequence data.</p>
+<h3 id="work-group-contributions">Work Group Contributions</h3>
+<p>RRA group, will carry out growth chamber and field experiments, perform lipid and DNA isolation and make maize crosses and genotyping to generate homozygous mutants of PtdCho sysnthesis OF group will perform HPLC-MS analysis of samples to generate lipid profile data and train visiting students from RRA lab in data analysis. RRA and OF will work jointly on data analysis of data. RRA group will work closely with the metabolic services at Langebio to implement lipid profile analysis in Langebio.</p>
+<h3 id="potential-for-future-funding">Potential for Future Funding</h3>
+<p>Oliver, please write down here anything that you might consider.</p>
+<p>Several parts of this project will be done in collaboration with the labs of Ruairidh Sawers and Daniel Runcie (see letters of support), that are already working on maize highland adaptation (not sure if it will be good here to mention the NSF project). Data generated in this project would benefit from data generated by these two labs and may constitute the basis for future grant applications.</p>
+<p>The lab of Rellán-Álvarez has also submitted an application to the Conacyt Fronteras de la Ciencia (awaiting decision) that would build on the results that could be obtained in this project.</p>
+<h3 id="timeline">Timeline</h3>
+<table style="width:53%;">
+<colgroup>
+<col width="6%" />
+<col width="15%" />
+<col width="15%" />
+<col width="15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left"><strong>Aim</strong></th>
+<th align="left">Aim 1</th>
+<th align="left">Aim 1</th>
+<th align="left">Aim 1</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><strong>Time</strong></td>
+<td align="left">Feb - March (2016)</td>
+<td align="left">March - May (2016)</td>
+<td align="left">June - July (2016)</td>
+</tr>
+<tr class="even">
+<td align="left"><strong>Activities</strong></td>
+<td align="left">B73 and PT grown in growth chamber using highland and lowland conditions, with low and high phosphorus concentrations. Take three leaf samples from V3 stage.</td>
+<td align="left">Storage 2/3 of the samples for future RT-qPCR and methylation analysis. Optimize lipid extraction. Analyze lipid extracts using UPCL-QTOFMS. Lipid profile analysis.</td>
+<td align="left">RT-qPCR analysis of leaf midrib samples taken.To analyze gene methylation patterns from samples.</td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Place</strong></td>
+<td align="left">Langebio</td>
+<td align="left">Langebio and UC Davis</td>
+<td align="left">Langebio</td>
+</tr>
+</tbody>
+</table>
+<table style="width:86%;">
+<colgroup>
+<col width="12%" />
+<col width="20%" />
+<col width="26%" />
+<col width="26%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left"><strong>Aim</strong></th>
+<th align="left">Aim 2</th>
+<th align="left">Aim 2</th>
+<th align="left">Aim 2</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><strong>Time</strong></td>
+<td align="left">March - April (2017)</td>
+<td align="left">April - May (2017)</td>
+<td align="left">June - July (2017)</td>
+</tr>
+<tr class="even">
+<td align="left"><strong>Activities</strong></td>
+<td align="left">Sowing of 30 highland and 30 lowland landraces, 15 plants each, in Nayarit and Metepec fields respectively. To grow 100 RILs of B73xPT, collect samples at V3-V5 stages.</td>
+<td align="left">Lipid extraction of samples. Shipping extracts for analysis. Phosphlipid profiles analysis.</td>
+<td align="left">QTL identification. To generate an association mapping using identified QTLs.</td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Place</strong></td>
+<td align="left">Langebio</td>
+<td align="left">Langebio and UC Davis</td>
+<td align="left">Langebio</td>
+</tr>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col width="10%" />
+<col width="22%" />
+<col width="22%" />
+<col width="22%" />
+<col width="22%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left"><strong>Aim</strong></th>
+<th align="left">Aim 3</th>
+<th align="left">Aim 3</th>
+<th align="left">Aim 3</th>
+<th align="left">Aim 3</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><strong>Time</strong></td>
+<td align="left">June - August (2016)</td>
+<td align="left">September - October (2016)</td>
+<td align="left">October - November (2016)</td>
+<td align="left">November - December (2016)</td>
+</tr>
+<tr class="even">
+<td align="left"><strong>Activities</strong></td>
+<td align="left">Generation of insertional mutants on PtdCho key biosynthesis genes. Study mutants for different alleles of xipotl gene. Find homozygous lines for 4 maize xipotl alleles.</td>
+<td align="left">Grow mutants in growth chamber according experimental conditions of Aim 1. Take three leaf samples per plant from V3 stage.</td>
+<td align="left">Lipid extraction. Shipping extract to be analyzed with UPCL-QTOFMS. Lipid profile analysis.</td>
+<td align="left">RT-qPCR analysis of leaf midrib samples taken. To analyze gene methylation patterns from samples taken.</td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Place</strong></td>
+<td align="left">Langebio</td>
+<td align="left">Langebio</td>
+<td align="left">Langebio and UC Davis</td>
+<td align="left">Langebio</td>
+</tr>
+</tbody>
+</table>
+<table style="width:39%;">
+<colgroup>
+<col width="12%" />
+<col width="26%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left"><strong>Aim</strong></th>
+<th align="left">Future Aims</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><strong>Time</strong></td>
+<td align="left">Future</td>
+</tr>
+<tr class="even">
+<td align="left"><strong>Activities</strong></td>
+<td align="left">Crosses and genotyping of mutants and study modification of PtdCho concentration in maize. Grow mutants in highland and lowland fields. Analyze leaf and root development.</td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Place</strong></td>
+<td align="left">Langebio and UC Davis</td>
+</tr>
+</tbody>
+</table>
