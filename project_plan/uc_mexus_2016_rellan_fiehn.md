@@ -89,23 +89,23 @@ The lab of Rellán-Álvarez has also submitted an application to the Conacyt Fro
 **Aim** | Aim 1 | Aim 1 | Aim 1 |
 :--- | ---------- | ---------- | ---------- |
 **Time** | Feb - March (2016) | March - May (2016) | June - July (2016) |
-**Activities** | B73 and PT grown in growth chamber under highland and lowland conditions and low and high phosphorus concentrations. Take V3 leaf samples. | Optimize lipid extraction. Analyze lipid extracts using UPCL-QTOFMS. Lipid profile analysis. | RT-qPCR analysis and gene methylation patterns from leaf samples taken.
+**Activities** | Grow B73 and PT in growth chamber under highland and lowland conditions and low and high phosphorus. Take V3 leaf samples. | Optimize lipid extraction. Lipid profile analysis using UPCL-QTOFMS. | RT-qPCR analysis and gene methylation patterns from leaf samples taken.
 **Place** | Langebio | Langebio and UC Davis | Langebio |
 
 **Aim** | Aim 2         | Aim 2              | Aim 2              |
 :-------| --------------| ------------------ | ------------------ |
 **Time**| March - April (2017) | April - May (2017) | June - July (2017) |
-**Activities** | Sowing of 30 highland and 30 lowland landraces, 15 plants each, in Nayarit and Metepec fields respectively. Grow 100 RILs of B73xPT, collect V3-V5 samples. | Lipid extraction of samples. Phosphlipid profiles analysis. | QTL identification. Generate an association mapping using identified QTLs. |
+**Activities** | Sowing of 30 highland and 30 lowland landraces, 15 plants each, in Nayarit and Metepec fields respectively. Grow 100 RILs of B73xPT, collect V3-V5 samples. | Lipid extraction and phosphlipid profiles analysis. | QTL identification. Generate an association mapping using identified QTLs. |
 **Place** | Langebio | Langebio and UC Davis | Langebio |
 
 **Aim** | Aim 3             | Aim 3              | Aim 3             | Aim 3              |
 :-------| ------------------| ------------------ | ------------------| ------------------ |
 **Time**| June - August (2016) | September - October (2016) | October - November (2016) | November - December (2016)
-**Activities** | Generation of insertional mutants on PC biosynthesis genes. Study mutants for different alleles of xipotl gene. Find homozygous lines for maize xipotl alleles. | Grow mutants in growth chamber according experimental conditions of Aim 1. Take V3 leaf samples. | Lipid extraction. UPCL-QTOFMS Lipid profile analysis. | RT-qPCR analysis and gene methylation patterns of leaf samples.|
+**Activities** | Generation of insertional mutants on PtdCho biosynthesis genes. Study mutants for xipotl alleles. Find homozygous lines for maize xipotl alleles. | Grow mutants in growth chamber under Aim 1 conditions. Take V3 leaf samples. | Lipid extraction. UPCL-QTOFMS Lipid profile analysis. | RT-qPCR analysis and gene methylation patterns of leaf samples.|
 **Place** | Langebio | Langebio | Langebio and UC Davis | Langebio |
 
 **Aim** |  Future Aims       |
 :-------| ------------------ |
 **Time**| Future            |
-**Activities** | Crosses and genotyping of PtdCho mutants in maize. Grow mutants in highland and lowland fields.  Analyze leaf and root development. |  
+**Activities** | Crosses and genotyping of PtdCho maize mutants. Grow mutants in highland and lowland fields.  Analyze leaf and root development. |  
 **Place** |  Langebio and UC Davis |
