@@ -40,7 +40,7 @@ Before this experiment we will optimize lipid extraction procedures to adapt it 
 #### Methodology  
 Plants will be grown for a period of 2-3 weeks. Samples will be collected at V3 stage from the youngest full developed leaf. Maize samples will be extracted according to the method of Matyash et al. [@Matyash:2008ei]. Phospholipid analysis will be performed at the West Coast Metabolomics Center in UC Davis. Separation and identification of lipids will be accomplished using a method that has been optimized, in the laboratory of Oliver Fiehn, with UPLC-QTOFMS electrospray on modes negative and positive. The method allows the identification of about 500 types of lipids including phospholipids, galactolipids, and sulfolipids. Further identification was complemented using LipidBlast data base [@Kind:2013bc]. Samples will also be collected from the opposite side of the leaf midrib for RT-qPCR analysis of the genes involved in phosphatidylcholine biosynthesis pathway See Figure 1.  
 
-![PC biosynthesis](../figures/figure_PtdChl_pathway.png)  
+![PC biosynthesis](../figures/combined_image.png)  
 **Figure 1** Phosphatidylcholine biosynthesis super pathway indicating the different pathways by which PC can be synthesized in maize. Predicted genes are indicated. (In bold those that can perform different steps of the pathway, in red those for which we are already homozygous single insertional mutants). Data was obtained from the Plant Metabolic Network, [CornCyc](http://pmn.plantcyc.org/organism-summary?object=CORN) webpage.
 
 ###Aim 2. Characterize the natural variation and genetic architecture of phospholipid metabolism and identify regions of the genome (QTLs) controlling the re-organization of polar lipids in response to highland conditions
