@@ -9,10 +9,13 @@ Plants growing in phosphorus limiting soils develop a series of metabolic strate
 There are several studies that point to an important role of phospholipids in maize highland adaptation. Takuno and colleagues identified genes showing signals of selection between lowland and highland maize populations in Mesoamerica and South America [@Takuno:2015cr]. Approximately 90 genes were identified in common between Meso American and South American populations, over a third of which belonged to Gene Ontology groups related to the synthesis of lipids / phospholipids. Interestingly, one of these genes is described as a CONSTANS interacting protein. CONSTANS is a transcription factor that is upstream of the FLOWERING LOCUS T (FT) transcription factor, which controls flowering time by integrating daylength signals.  
 Using a maize diversity panel, lipid profiles have been shown to be good predictors of flowering time [@Riedelsheimer:2012ir]. In *Arabidopsis thaliana*, FT binds to di18:1-PC, a species of phosphatidylcholine (PC) -the most abundant phospholipid in plants- *in vitro* [@Nakamura:2014gs]. [@Nakamura:2014gs]. When the proportion of PC is increased, relative to phosphoethanolamine (PE), flowering time is reduced, probably because the FT complex with PC favors the union of FT to the promoter of FT target genes. Additionally, both PC and other intermediate metabolites of PC synthesis are essential for proper embryo development [@Lin:2015ef].
 
-In this project, we are proposing to systematically study differences in phospholipid metabolism in relation to maize adaptation to highland conditions. We will use high throughout liquid chromatography coupled to mass spectrometry and lipid mass spectra databases to identify a wide range of phospholipids in different plant maize materials including:  
-- A diversity panel of 30 highland and 30 lowland Mexican maize landraces grown in common gardens experiments in highland (Metepec, 2500 m) and lowland (Nayarit, 25 m) field sites.
+In this project, we will systematically test the role of phospholipid metabolism in maize adaptation to highland conditions. Using high throughout liquid chromatography coupled to mass spectrometry and lipid mass spectra databases to quantify lipids involved phospholipid metabolism. We will use maize genotypes adapted to highland and lowland conditions and a combination of growth chamber experiments simulating highland conditions (low phosphorus and low temperature) and common garden experiments in Mexican highland and lowland locations to
+
+- Palomero Toluqueño (landrace adapted to highland conditions) and B73 (US inbred adapted to lowland conditions) maize lines and mutants of genes involved in PC biosynthesis grown in growth chamber with a factorial experiment combining  low and high temperature and low and high phosphorus concentrations simulating highland and lowland conditions. In this plant material we will also collect tissue to study the expression of genes involved in the PC pathway.
 - A mapping population composed of 100 Palomero Toluqueño (PT, a Mexican highland landrace) x B73 (sequenced US inbred line) Recombinant Inbred Lines grown in the same highland and lowland locations.
-- PT and B73 parents and mutants of genes involved in PC biosynthesis grown in growth chamber with a factorial experiment combining  low and high temperature and low and high phosphorus concentrations simulating highland and lowland conditions. In this plant material we will also collect tissue to study the expression of genes involved in the PC pathway.
+- A diversity panel of 30 highland and 30 lowland Mexican maize landraces grown in common gardens experiments in highland (Metepec, 2500 masl) and lowland (Nayarit, 25 m masl) field sites.
+
+
 
 ## Hypothesis
 
@@ -67,11 +70,12 @@ We have already started making crosses between these insertional mutants and sel
 
 Crosses and genotyping of all the mutants is well underway. Field experiments won't be possible within the timeframe of the UC-Mexus project but data generated in the growth chambers will guide theses experiments in the future.
 
-### Summary and synthesis
-We consider also the possibility of rapid functional change between mexicana and highland maize as a result of the pressures of cultivation, in the absence of recombination. This later hypothesis will be investigated contingent of the availability of mexicana sequence data.
+### Summary
+
+In summary we will use precise biochemical phenotyping of phospholipids and other polar lipids to test the hypothesis that changes in phosphoplipid metabolism is an adaptive trait to maize highland adaptation in México. We will carry out a combination of growth chamber and field common garden experiments using maize lines that are adapted to highland and lowland conditions. 
 
 ### Work Group Contributions
-RRA group, will carry out growth chamber and field experiments, perform lipid and DNA isolation and make maize crosses and genotyping to generate homozygous mutants of PC sysnthesis
+RRA group, will carry out growth chamber and field experiments, perform lipid and DNA isolation and make maize crosses and genotyping to generate homozygous mutants of PC synthesis
 OF group will perform HPLC-MS analysis of samples to generate lipid profile data and train visiting students from RRA lab in data analysis.
 RRA and OF will work jointly on data analysis of data.
 RRA group will work closely with the metabolic services at Langebio to implement lipid profile analysis in Langebio.
@@ -79,7 +83,6 @@ RRA group will work closely with the metabolic services at Langebio to implement
 ### Potential for Future Funding
 
 Several parts of this project will be done in collaboration with the labs of Ruairidh Sawers and Daniel Runcie (see letters of support), that are already working on maize highland adaptation (not sure if it will be good here to mention the NSF project). Data generated in this project would benefit from data generated by these two labs and may constitute the basis for future grant applications.
-
 The lab of Rellán-Álvarez has also submitted an application to the Conacyt Fronteras de la Ciencia (awaiting decision) that would build on the results that could be obtained in this project.
 
 
